@@ -1,6 +1,21 @@
 ---
-layout: slide
-title: "Welcome to our second slide!"
+layout: Favorite Things
+title: "There are many things I like!"
 ---
-Your text now updated - now it's different
-Use the left arrow to go back!
+Sometimes things I like are cute.
+# Fuzzy Animals
+- kittens
+- puppies
+- bunnies
+
+Sometimes they are delicious.
+
+| Cheese | Country    |
+| :------------- | :------------- |
+| Brie      | France      |
+| Cheddar       | England       |
+| Gruyere      | Switzerland       |
+
+**cute**
+
+Copyright (c) 2021 Fluffy Time Jamboree All Rights Reserved.
